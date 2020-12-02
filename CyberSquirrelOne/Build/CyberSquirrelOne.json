@@ -1,0 +1,17 @@
+{
+"companyName": "EastCreek",
+"productName": "CyberSquirrel1",
+"productVersion": "1.0",
+"dataUrl": "CyberSquirrelOne.data.unityweb",
+"asmCodeUrl": "CyberSquirrelOne.asm.code.unityweb",
+"asmMemoryUrl": "CyberSquirrelOne.asm.memory.unityweb",
+"asmFrameworkUrl": "CyberSquirrelOne.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.1f1"
+}
